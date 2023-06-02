@@ -1,0 +1,121 @@
+body{
+    margin-top:30px;
+    font-family: 'Happy Monkey', cursive;
+    text-align: center;
+    background:linear-gradient(#62aec5, #f678a7);
+    color:white;
+    text-shadow:0px 0px 2px black ;
+    
+
+}
+.head1{
+    margin-bottom: 2px;
+}
+ #image{
+    width:130px;
+    height:130px;
+    border-radius:50%;
+    border:3px solid #f698be;
+}
+.under{
+    border-bottom:3px solid white;
+}
+#head3{
+    background:#f698be;
+    margin-bottom:4px ;
+    padding: 5px 10px;
+    border-radius: 5px;
+    }
+    #head4{
+        background:#f698be;
+        margin-top:4px;
+        padding: 5px 10px;
+        border-radius: 5px;
+        }
+#header{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items:center ;
+}
+.gifim{
+    width:300px;
+    height:300px ;
+    border:3px solid white;
+    border-radius:3px;
+    background-size: cover;
+    background-image:url("https://w0.peakpx.com/wallpaper/210/996/HD-wallpaper-christmas-present-thumbnail.jpg");
+   
+}
+
+.gift{
+    margin-top:5px; 
+
+}
+.happy{
+
+margin-bottom:5px;
+}
+.emoji{
+    margin-top:1px;
+}
+.gifim:hover{
+    background-image:url("https://media.tenor.com/uXV2P0icfTgAAAAC/karikku-ulkka.gif");
+    background-size:cover;
+}
+.gifim2{
+    width:300px;
+    height:300px ;
+    border:3px solid #ffffff;
+    margin-top: 20px;
+    border-radius:3px;
+    background-size: cover;
+    background-image:url("https://w0.peakpx.com/wallpaper/210/996/HD-wallpaper-christmas-present-thumbnail.jpg");
+  
+}
+.gifim2:hover{
+    background-image:url("https://media.tenor.com/l4Jr88PZOsAAAAAC/karikku-malayalam.gif");
+    background-size:cover;
+}
+.giftsec{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items:center ;
+
+
+}
+.giftsec2{
+    margin-top: 20px;
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items:center ;
+
+
+}
+.gifim3{
+    width:300px;
+    height:300px ;
+    border:3px solid #ffffff;
+    margin-top: 20px;
+    border-radius:3px;
+    background-size: cover;
+    background-image:url("https://w0.peakpx.com/wallpaper/210/996/HD-wallpaper-christmas-present-thumbnail.jpg");
+  
+}
+.gifim3:hover{
+    background-image:url("https://media.tenor.com/1kXINT5egTIAAAAd/minnal-murali-tovino-thomas.gif");
+    background-size:cover;
+}
+#footer{
+ width:400px;
+  margin:40px auto 20px ;
+
+}
+a{
+    font-style: italic;
+    color: white;
+
+}
